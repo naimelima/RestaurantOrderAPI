@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|c:\\users\\naome\\source\\repos\\restaurantorderapi\\restaurantorderapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|solutionrelative:restaurantorderapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|c:\\users\\naome\\source\\repos\\restaurantorderapi\\restaurantorderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|solutionrelative:restaurantorderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|c:\\users\\naome\\source\\repos\\restaurantorderapi\\restaurantorderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|solutionrelative:restaurantorderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|c:\\users\\naome\\source\\repos\\restaurantorderapi\\restaurantorderapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|solutionrelative:restaurantorderapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,14 +83,6 @@
       "RelativeMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|solutionrelative:restaurantorderapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|c:\\users\\naome\\source\\repos\\restaurantorderapi\\restaurantorderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|solutionrelative:restaurantorderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|c:\\users\\naome\\source\\repos\\restaurantorderapi\\restaurantorderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|solutionrelative:restaurantorderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|c:\\users\\naome\\source\\repos\\restaurantorderapi\\restaurantorderapi\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E55854F-E796-425A-9936-04D2902AF06D}|RestaurantOrderAPI\\RestaurantOrderAPI.csproj|solutionrelative:restaurantorderapi\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -130,19 +134,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Iterfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "RestaurantOrderAPI\\Iterfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Iterfaces\\IProductService.cs",
-              "RelativeToolTip": "RestaurantOrderAPI\\Iterfaces\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T18:04:22.815Z",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "RestaurantOrderAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Dockerfile",
+              "RelativeToolTip": "RestaurantOrderAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-17T19:38:38.259Z",
               "EditorCaption": ""
             },
             {
@@ -151,20 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrderCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\DTOs\\OrderCreateDto.cs",
-              "RelativeDocumentMoniker": "RestaurantOrderAPI\\DTOs\\OrderCreateDto.cs",
-              "ToolTip": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\DTOs\\OrderCreateDto.cs",
-              "RelativeToolTip": "RestaurantOrderAPI\\DTOs\\OrderCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T18:06:19.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "OrderItemDto.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\DTOs\\OrderItemDto.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\DTOs\\OrderItemDto.cs",
@@ -172,12 +163,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\DTOs\\OrderItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T18:27:50.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T18:27:50.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "OrderResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\DTOs\\OrderResponseDto.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\DTOs\\OrderResponseDto.cs",
@@ -185,12 +175,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\DTOs\\OrderResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T18:27:11.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T18:27:11.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ProductCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\DTOs\\ProductCreateDto.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\DTOs\\ProductCreateDto.cs",
@@ -198,12 +187,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\DTOs\\ProductCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T16:43:55.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T16:43:55.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Models\\Order.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Models\\Order.cs",
@@ -211,12 +199,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T17:59:41.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T17:59:41.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Models\\OrderItem.cs",
@@ -224,12 +211,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Models\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T18:00:50.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T18:00:50.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Models\\Product.cs",
@@ -237,12 +223,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T14:26:12.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T14:26:12.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Models\\User.cs",
@@ -250,12 +235,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:12:11.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T17:12:11.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MongoDbSettings.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Repositories\\MongoDbSettings.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Repositories\\MongoDbSettings.cs",
@@ -263,12 +247,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Repositories\\MongoDbSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T16:30:11.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T16:30:11.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Services\\AuthService.cs",
@@ -276,12 +259,61 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Services\\AuthService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T17:10:30.308Z",
+              "WhenOpened": "2026-04-08T17:10:30.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Program.cs",
+              "RelativeToolTip": "RestaurantOrderAPI\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:09:29.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
+              "Title": "OrderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\DTOs\\OrderCreateDto.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderAPI\\DTOs\\OrderCreateDto.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\DTOs\\OrderCreateDto.cs",
+              "RelativeToolTip": "RestaurantOrderAPI\\DTOs\\OrderCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:06:19.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantOrderAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\appsettings.json",
+              "RelativeToolTip": "RestaurantOrderAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAADNZmZmZmYUwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-09T19:54:41.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Iterfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderAPI\\Iterfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Iterfaces\\IProductService.cs",
+              "RelativeToolTip": "RestaurantOrderAPI\\Iterfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:04:22.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "MongoContext.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Data\\MongoContext.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Data\\MongoContext.cs",
@@ -289,12 +321,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Data\\MongoContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T16:40:11.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T16:40:11.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Data\\AppDbContext.cs",
@@ -302,12 +333,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T18:01:26.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T18:01:26.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Controllers\\OrderController.cs",
@@ -315,12 +345,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Controllers\\OrderController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T18:08:47.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T18:08:47.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Controllers\\ProductController.cs",
@@ -328,12 +357,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T16:56:38.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T16:56:38.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "UpdateOrderStatusDto.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\DTOs\\UpdateOrderStatusDto.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\DTOs\\UpdateOrderStatusDto.cs",
@@ -341,12 +369,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\DTOs\\UpdateOrderStatusDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T19:06:48.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T19:06:48.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Controllers\\AuthController.cs",
@@ -354,38 +381,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T17:54:15.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T17:54:15.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "RestaurantOrderAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\appsettings.json",
-              "RelativeToolTip": "RestaurantOrderAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-09T19:54:41.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Program.cs",
-              "RelativeDocumentMoniker": "RestaurantOrderAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Program.cs",
-              "RelativeToolTip": "RestaurantOrderAPI\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T18:09:29.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "MongoDbService.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Services\\MongoDbService.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Services\\MongoDbService.cs",
@@ -393,12 +393,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Services\\MongoDbService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T16:49:38.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T16:49:38.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Services\\ProductService.cs",
@@ -406,12 +405,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Services\\ProductService.cs",
               "ViewState": "AgIAABcAAACAmZmZmZkcwAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T16:55:36.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T16:55:36.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Services\\OrderService.cs",
@@ -419,12 +417,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Services\\OrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T18:07:32.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T18:07:32.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -432,12 +429,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T16:42:33.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T16:42:33.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "20260410142733_FixRelations.Designer.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Migrations\\20260410142733_FixRelations.Designer.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Migrations\\20260410142733_FixRelations.Designer.cs",
@@ -445,12 +441,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Migrations\\20260410142733_FixRelations.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T16:42:30.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T16:42:30.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "20260408181527_AddOrderFields.Designer.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Migrations\\20260408181527_AddOrderFields.Designer.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Migrations\\20260408181527_AddOrderFields.Designer.cs",
@@ -458,12 +453,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Migrations\\20260408181527_AddOrderFields.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T16:42:26.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T16:42:26.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "20260408154025_FixDecimalPrecision.Designer.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Migrations\\20260408154025_FixDecimalPrecision.Designer.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Migrations\\20260408154025_FixDecimalPrecision.Designer.cs",
@@ -471,12 +465,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Migrations\\20260408154025_FixDecimalPrecision.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T16:42:17.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T16:42:17.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "20260407213452_InitialCreate.Designer.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Migrations\\20260407213452_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Migrations\\20260407213452_InitialCreate.Designer.cs",
@@ -484,12 +477,11 @@
               "RelativeToolTip": "RestaurantOrderAPI\\Migrations\\20260407213452_InitialCreate.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T14:57:34.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T14:57:34.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "20260408181527_AddOrderFields.cs",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\Migrations\\20260408181527_AddOrderFields.cs",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\Migrations\\20260408181527_AddOrderFields.cs",
@@ -501,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\docker-compose.yml",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\docker-compose.yml",
@@ -513,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "RestaurantOrderAPI.csproj",
               "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\RestaurantOrderAPI\\RestaurantOrderAPI\\RestaurantOrderAPI.csproj",
               "RelativeDocumentMoniker": "RestaurantOrderAPI\\RestaurantOrderAPI.csproj",

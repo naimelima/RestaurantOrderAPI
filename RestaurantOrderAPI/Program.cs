@@ -11,6 +11,7 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
 var jwtSettings = builder.Configuration.GetSection("JwtSettings");
 var secretKey = jwtSettings["Secret"];
 if (string.IsNullOrEmpty(secretKey))
@@ -100,6 +101,7 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+app.Urls.Add("http://0.0.0.0:10000");
 
 //using (var scope = app.Services.CreateScope())
 //{
