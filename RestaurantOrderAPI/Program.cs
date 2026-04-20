@@ -4,6 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
+using RestaurantOrderAPI.Data;
 using RestaurantOrderAPI.Iterfaces;
 using RestaurantOrderAPI.Repositories;
 using RestaurantOrderAPI.Services;
@@ -48,6 +49,7 @@ builder.Services.Configure<MongoDbSettings>(
     builder.Configuration.GetSection("MongoDbSettings"));
 
 builder.Services.AddSingleton<MongoDbService>();
+builder.Services.AddSingleton<MongoContext>();
 
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IAuthService, AuthService>();

@@ -176,4 +176,4 @@ C:\Users\naome\source\repos\RestaurantOrderAPI\RestaurantOrderAPI\bin\Debug\net8
 C:\Users\naome\source\repos\RestaurantOrderAPI\RestaurantOrderAPI\bin\Debug\net8.0\Snappier.dll
 C:\Users\naome\source\repos\RestaurantOrderAPI\RestaurantOrderAPI\bin\Debug\net8.0\ZstdSharp.dll
 C:\Users\naome\source\repos\RestaurantOrderAPI\RestaurantOrderAPI\obj\Debug\net8.0\RestaurantOrderAPI.sourcelink.json
-C:\Users\naome\source\repos\RestaurantOrderAPI\RestaurantOrderAPI\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\naome\source\repos\RestaurantOrderAPI\RestaurantOrderAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
